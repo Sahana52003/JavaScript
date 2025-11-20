@@ -31,5 +31,4 @@ function a(){
     }
     console.log(value);    
 }
-
 a();
